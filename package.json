@@ -1,6 +1,6 @@
 {
   "name": "connect-nocache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect middleware to disable caching",
   "main": "index.js",
   "repository": {
