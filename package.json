@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/superjoe30/connect-nocache"
+    "url": "https://github.com/andrewrk/connect-nocache"
   },
   "keywords": [
     "disable"
   ],
   "author": "Andrew Kelley",
-  "license": "BSD"
+  "license": "MIT"
 }
